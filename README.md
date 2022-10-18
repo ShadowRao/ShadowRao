@@ -27,9 +27,8 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShadowRao&label=Profile%20views&color=0e75b6&style=flat" alt="ShadowRao" /> </p>
 
-<p>
+<p align="center">
     <img
-        align="center"
         src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"
         width="150";
         alt="ShadowRao"
