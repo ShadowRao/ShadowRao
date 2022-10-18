@@ -3,7 +3,7 @@
 <p>
   <img
     align="left"
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6GYGvxIEIrrjSynS6up5htvBubZD11geNzQ&usqp=CAU"
+    src="https://toppng.com/uploads/preview/animated-loading-gif-transparent-background-pictures-cute-flying-pig-gif-11562939961zxoq6jhw3g.png"
     width="150";
     alt="ShadowRao"
   />
