@@ -8,21 +8,6 @@
     width="150";
     alt="ShadowRao"
   />
-    <p>
-        <img
-            align="center"
-            src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"
-            width="150";
-            alt="ShadowRao"
-        />
-         <img
-            align="center"
-            src="https://2.bp.blogspot.com/-ibeBO4bm7Vs/Xl71xQqldDI/AAAAAAAWitw/MauHQMoxtgUMVt6wHB42zQFcORTuFLFjwCLcBGAsYHQ/s1600/AW4172178_00.gif"
-            width="150";
-            alt="ShadowRao"
-        />
-    </p>
-
   <img
     align="right"
     src="https://i.gifer.com/YAg6.gif"
@@ -31,7 +16,20 @@
   />
 </p>
 
-
+<p>
+    <img
+        align="center"
+        src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"
+        width="150";
+        alt="ShadowRao"
+    />
+    <img
+        align="center"
+        src="https://2.bp.blogspot.com/-ibeBO4bm7Vs/Xl71xQqldDI/AAAAAAAWitw/MauHQMoxtgUMVt6wHB42zQFcORTuFLFjwCLcBGAsYHQ/s1600/AW4172178_00.gif"
+        width="150";
+        alt="ShadowRao"
+    />
+</p>
 
 <!--
 https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif
