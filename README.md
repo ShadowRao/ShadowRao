@@ -21,9 +21,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align="center"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" alt="linked-in" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" alt="linked-in" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" alt="linked-in" width="40" height="40"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2DsMMUXIEKbRa4b9wo-Ds-OekcO3nUFJHhgxf0cxOnqQF7kb6e3YrT02aezJWFxXig&usqp=CAU" alt="linked-in" width="40" height="40"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2DsMMUXIEKbRa4b9wo-Ds-OekcO3nUFJHhgxf0cxOnqQF7kb6e3YrT02aezJWFxXig&usqp=CAU" alt="linked-in" width="40" height="40"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2DsMMUXIEKbRa4b9wo-Ds-OekcO3nUFJHhgxf0cxOnqQF7kb6e3YrT02aezJWFxXig&usqp=CAU" alt="linked-in" width="40" height="40"/> </a> 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShadowRao&label=Profile%20views&color=0e75b6&style=flat" alt="ShadowRao" /> </p>
 <!--
