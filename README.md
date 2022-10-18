@@ -11,8 +11,8 @@
     width="150";
     alt="ShadowRao"
   />
-  <h3 align="center">>Hey!!</h3>
-  <h2 align="center">>I am Shadwal</h2>
+  <h3 align="center">Hey!!</h3>
+  <h2 align="center">I am Shadwal</h2>
   
 </p>
 <br><br><br>
@@ -20,6 +20,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" alt="linked-in" width="40" height="40"/> </a> </p>
 <!--
 <p>
     <img
