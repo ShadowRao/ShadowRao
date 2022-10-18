@@ -3,13 +3,13 @@
 <p>
   <img
     align="left"
-    src="https://i.gifer.com/YAg6.gif"
+    src="https://64.media.tumblr.com/1bdf8eece8956a5b9399cd65a26ee6ac/17b5b664dbfa869a-40/s500x750/9aa5a0872df52547109baf7ec3bc0afa67d0ce24.gif"
     width="150";
     alt="ShadowRao"
   />
   <img
     align="right"
-    src="https://i.gifer.com/YAg6.gif"
+    src="https://64.media.tumblr.com/1bdf8eece8956a5b9399cd65a26ee6ac/17b5b664dbfa869a-40/s500x750/9aa5a0872df52547109baf7ec3bc0afa67d0ce24.gif"
     width="150";
     alt="ShadowRao"
   />
