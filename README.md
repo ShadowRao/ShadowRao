@@ -26,7 +26,7 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShadowRao&label=Profile%20views&color=0e75b6&style=flat" alt="ShadowRao" /> </p>
-<!--
+
 <p>
     <img
         align="center"
@@ -34,6 +34,8 @@
         width="150";
         alt="ShadowRao"
     />
+</p>
+<!--
     <img
         align="center"
         src="https://2.bp.blogspot.com/-ibeBO4bm7Vs/Xl71xQqldDI/AAAAAAAWitw/MauHQMoxtgUMVt6wHB42zQFcORTuFLFjwCLcBGAsYHQ/s1600/AW4172178_00.gif"
