@@ -5,6 +5,10 @@
     width="150";
     alt="ShadowRao"
   />
+  <h3>Hey!!</h3>
+  <br><br>
+  <h2>I am Shadwal</h2>
+  <br><br>
   <img
     align="right"
     src="https://64.media.tumblr.com/1bdf8eece8956a5b9399cd65a26ee6ac/17b5b664dbfa869a-40/s500x750/9aa5a0872df52547109baf7ec3bc0afa67d0ce24.gif"
@@ -13,7 +17,6 @@
   />
 </p>
 <br><br><br>
-###Hey!!<br>##I am Shadwal<br>
 <p>
     <img
         align="center"
