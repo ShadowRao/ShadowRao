@@ -1,5 +1,3 @@
-### Hello Friend
-
 <p>
   <img
     align="left"
@@ -14,7 +12,9 @@
     alt="ShadowRao"
   />
 </p>
-
+<br><br><br>
+<h2 align="center">Hey!! </h2><hr>
+<h1 align="center">I am Shadwal</h1>
 <p>
     <img
         align="center"
@@ -31,6 +31,8 @@
 </p>
 
 <!--
+
+code - https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
 https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif
 
 https://2.bp.blogspot.com/-ibeBO4bm7Vs/Xl71xQqldDI/AAAAAAAWitw/MauHQMoxtgUMVt6wHB42zQFcORTuFLFjwCLcBGAsYHQ/s1600/AW4172178_00.gif
