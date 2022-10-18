@@ -13,10 +13,7 @@
   />
 </p>
 <br><br><br>
-<p>
-    <h2 align="center">**Hey!!** </h2>
-    <h1 align="center">I am Shadwal</h1>
-</p>
+<p>###Hey!!<br>##I am Shadwal<br></p>
 <p>
     <img
         align="center"
