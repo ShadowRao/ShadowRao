@@ -5,14 +5,15 @@
     width="150";
     alt="ShadowRao"
   />
-  <h3 align="center">Hey!!</h3>
-  <h2 align="center">I am Shadwal</h2>
   <img
     align="right"
     src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"
     width="150";
     alt="ShadowRao"
   />
+  
+  <h3 align="center">Hey!!</h3>
+  <h2 align="center">I am Shadwal</h2>
 </p>
 
 
