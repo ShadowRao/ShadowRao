@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align="center"> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in"/> </a> 
+    <a href="https://www.linkedin.com/in/shadwal-rao/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> 
 </p>
@@ -72,7 +72,8 @@ Computer Science Student.
 
 <br><hr><br>
 
-### :fire: Streaks :
+### :fire: <span style="color: green"> Streaks : </span>
+
 <p>
   <img
     align="center"
