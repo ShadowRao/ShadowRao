@@ -55,7 +55,7 @@ Computer Science Student.
 
 - :seedling: Exploring New Technical Stuff And Learning New Programming Languages.
 
-- :zap: In my free time, I Play Online PC Games. <a href="https://playvalorant.com/en-gb/">Valorant</a> <a href="https://www.ea.com/games/apex-legends">Apex</a> and  Are My Favorite Games As For Now.
+- :zap: In my free time, I Play Online PC Games. <a href="https://playvalorant.com/en-gb/">Valorant</a> and <a href="https://www.ea.com/games/apex-legends">Apex</a> Are My Favorite Games As For Now.
 
 - :mailbox:How to reach me: **shaddycv@gmail.com**
 <!--
