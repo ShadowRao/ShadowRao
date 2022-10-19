@@ -47,7 +47,17 @@
 <br><br>
 
 ### :man_technologist: About Me :
-Computer Science Student. "Humble in change, bold in action"
+Computer Science Student.
+"Humble in change, bold in action"
+
+- :telescope: I’m a Student At <a href="https://sode-edu.in/">SMVITM</a>
+
+
+- :seedling: Exploring New Technical Stuff And Learning New Programming Languages.
+
+- :zap: In my free time, I Play Online PC Games. <a href="https://playvalorant.com/en-gb/">Valorant</a> <a href="https://www.ea.com/games/apex-legends">Apex</a> and  Are My Favorite Games As For Now.
+
+- :mailbox:How to reach me: **shaddycv@gmail.com**
 <!--
     <img
         align="center"
