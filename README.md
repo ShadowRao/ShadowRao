@@ -27,7 +27,18 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShadowRao&label=Profile%20views&color=0e75b6&style=flat" alt="ShadowRao" /> </p>
 
+<p>
+  <img
+        align="center"
+        src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+        width="150";
+        alt="ShadowRao"
+    />
+</p>
 
+---
+
+### :man_technologist: About Me :
 <!--
     <img
         align="center"
