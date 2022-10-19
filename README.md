@@ -43,10 +43,11 @@
   
 </p>
 <br><br>
----
 <hr>
 <br><br>
 
+### :man_technologist: About Me :
+Computer Science Student. "Humble in change, bold in action"
 <!--
     <img
         align="center"
