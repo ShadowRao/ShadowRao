@@ -12,8 +12,7 @@
     alt="ShadowRao"
   />
   
-  <h3 align="center"><span style="color: green"> Hey! </span>
-</h3>
+  <h3 align="center">Hey!!</h3>
   <h2 align="center">I am Shadwal</h2>
 </p>
 
