@@ -80,6 +80,16 @@ Computer Science Student.
     alt="ShadowRao"
   />
 </p>
+
+<p>
+  <img
+    align="center"
+    src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowRao&layout=compact&theme=vision-friendly-dark)](https://github.com/ShadowRao/github-readme-stats)"
+    alt="ShadowRao"
+  />
+</p>
+
+
 <!--
     <img
         align="center"
