@@ -28,10 +28,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShadowRao&label=Profile%20views&color=0e75b6&style=flat" alt="ShadowRao" /> </p>
 
 <p>
+  <p align="center">(function repeat(){<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eat();<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sleep();<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code();<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;repeat();<br>})();<p>
   <img
-        align="center"
+        align = "right"
         src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
-        width="150";
+        width="125";
         alt="ShadowRao"
     />
 </p>
