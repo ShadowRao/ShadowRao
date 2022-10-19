@@ -11,10 +11,11 @@
     width="150";
     alt="ShadowRao"
   />
-  <h3 align="center">Hey!!</h3>
-  <h2 align="center">I am Shadwal</h2>
-  
 </p>
+
+<h3 align="center">Hey!!</h3>
+<h2 align="center">I am Shadwal</h2>
+
 <br><br><br>
 <hr>
 <div id="header" align="center">
