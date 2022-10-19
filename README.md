@@ -1,13 +1,13 @@
 <p>
   <img
     align="left"
-    src="https://64.media.tumblr.com/1bdf8eece8956a5b9399cd65a26ee6ac/17b5b664dbfa869a-40/s500x750/9aa5a0872df52547109baf7ec3bc0afa67d0ce24.gif"
+    src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"
     width="150";
     alt="ShadowRao"
   />
   <img
     align="right"
-    src="https://64.media.tumblr.com/1bdf8eece8956a5b9399cd65a26ee6ac/17b5b664dbfa869a-40/s500x750/9aa5a0872df52547109baf7ec3bc0afa67d0ce24.gif"
+    src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"
     width="150";
     alt="ShadowRao"
   />
@@ -27,13 +27,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShadowRao&label=Profile%20views&color=0e75b6&style=flat" alt="ShadowRao" /> </p>
 
-<p align="center">
-    <img
-        src="https://i.pinimg.com/originals/45/09/95/450995c409e44cfd55d293757ab7b4ca.gif"
-        width="150";
-        alt="ShadowRao"
-    />
-</p>
+
 <!--
     <img
         align="center"
