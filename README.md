@@ -76,7 +76,7 @@ Computer Science Student.
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowRao&theme=python-dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowRao&theme=python-dark&hide_border=true&fire=#FF4D21&ring=#DDAF1B"
     alt="ShadowRao"
   />
 </p>
