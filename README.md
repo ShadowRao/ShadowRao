@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align="center"> 
-    <a href="https://www.linkedin.com/in/shadwal-rao/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in"/> </a> 
+    <a href="#" onclick="window.open('https://www.linkedin.com/in/shadwal-rao/');return false;"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in"/> </a>
     <a href="https://mail.google.com/mail/#inbox?compose=GTvVlcSHxwNHFsBWGVxJjgJGwSstkZNlVXbrbfJSWNdwVbNWwNLtWqPzHldNCBtzCWqlJkBgQLjWQ" target="blank"> <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShadowRao&label=Profile%20views&color=0e75b6&style=flat" alt="ShadowRao" /> </p>
